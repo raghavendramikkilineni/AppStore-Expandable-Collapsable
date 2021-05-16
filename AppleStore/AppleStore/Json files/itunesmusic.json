@@ -1,0 +1,673 @@
+{
+  "feed": {
+    "title": "Today's Hits",
+    "id": "https://rss.itunes.apple.com/api/v1/us/itunes-music/hot-tracks/all/25/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/us/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/us/itunes-music/hot-tracks/all/25/explicit.json"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=554826682&app=itunes"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. Todos os direitos reservados.",
+    "country": "us",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2021-04-12T01:49:59.000-07:00",
+    "results": [
+      {
+        "artistName": "Bruno Mars, Anderson .Paak & Silk Sonic",
+        "id": "1556097162",
+        "releaseDate": "2021-03-05",
+        "name": "Leave The Door Open",
+        "collectionName": "Leave The Door Open - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Aftermath Entertainment and Atlantic Recording Corporation",
+        "artistId": "278873078",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=278873078-855484536-1556097160&app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/36/8b/5c/368b5c12-725e-e85d-36be-5287461cc0a2/075679788337.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/leave-the-door-open/1556096966?i=1556097162&app=itunes"
+      },
+      {
+        "artistName": "Masked Wolf",
+        "id": "1547525311",
+        "releaseDate": "2019-06-07",
+        "name": "Astronaut In The Ocean",
+        "collectionName": "Astronaut In The Ocean - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Elektra Records LLC",
+        "artistId": "1313094981",
+        "artistUrl": "https://music.apple.com/us/artist/masked-wolf/1313094981?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/af/ef/ff/afefff15-b936-3cb7-9101-166f8501e71a/075679793102.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/astronaut-in-the-ocean/1547525310?i=1547525311&app=itunes"
+      },
+      {
+        "artistName": "Justin Bieber",
+        "id": "1556175857",
+        "releaseDate": "2021-03-19",
+        "name": "Peaches (feat. Daniel Caesar & GIVĒON)",
+        "collectionName": "Justice",
+        "kind": "song",
+        "copyright": "℗ 2021 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId": "320569549",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/justin-bieber/320569549?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f5/7a/9e/f57a9e6a-31c8-0784-dfbd-4a0120bfd4af/21UMGIM17517.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/peaches-feat-daniel-caesar-giv%C4%93on/1556175419?i=1556175857&app=itunes"
+      },
+      {
+        "artistName": "Lil Nas X",
+        "id": "1556766751",
+        "releaseDate": "2021-03-26",
+        "name": "MONTERO (Call Me By Your Name)",
+        "collectionName": "MONTERO (Call Me By Your Name) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1400730578",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/lil-nas-x/1400730578?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/24/21/9d/24219d8b-3354-7329-d3d2-f7c186a31881/886449068012.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name/1556766750?i=1556766751&app=itunes"
+      },
+      {
+        "artistName": "Maroon 5 & Megan Thee Stallion",
+        "id": "1556706159",
+        "releaseDate": "2021-03-03",
+        "name": "Beautiful Mistakes",
+        "collectionName": "Beautiful Mistakes - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Interscope Records (222 Records)",
+        "artistId": "1798556",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1798556-1258989914&app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/90/6f/75906fda-bc17-2cd0-6cec-33cbbbd0514f/21UMGIM12488.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/beautiful-mistakes/1556706156?i=1556706159&app=itunes"
+      },
+      {
+        "artistName": "Doja Cat",
+        "id": "1561866170",
+        "releaseDate": "2021-04-09",
+        "name": "Kiss Me More (feat. SZA)",
+        "collectionName": "Kiss Me More (feat. SZA) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Kemosabe Records/RCA Records",
+        "artistId": "830588310",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/doja-cat/830588310?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/3f/e7/43/3fe743ea-77e8-5680-d2f7-4eaf1d45cebe/886449138791.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/kiss-me-more-feat-sza/1561866167?i=1561866170&app=itunes"
+      },
+      {
+        "artistName": "Saweetie",
+        "id": "1542954266",
+        "releaseDate": "2021-01-08",
+        "name": "Best Friend (feat. Doja Cat)",
+        "collectionName": "Best Friend (feat. Doja Cat) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 ICY/Warner Records Inc.",
+        "artistId": "1318085504",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/saweetie/1318085504?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/17/4e/5b174eca-922d-27ec-29d1-3450ad264b62/054391927200.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/best-friend-feat-doja-cat/1542954264?i=1542954266&app=itunes"
+      },
+      {
+        "artistName": "Dua Lipa",
+        "id": "1532788352",
+        "releaseDate": "2020-10-01",
+        "name": "Levitating (feat. DaBaby)",
+        "collectionName": "Levitating (feat. DaBaby) - Single",
+        "kind": "song",
+        "copyright": "under exclusive license to Warner Records UK, a division of Warner Music UK Limited, ℗ 2020 Dua Lipa Limited",
+        "artistId": "1031397873",
+        "artistUrl": "https://music.apple.com/us/artist/dua-lipa/1031397873?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/b9/75/47b9758e-182c-8c2a-2923-66be1594e081/190295132651.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/levitating-feat-dababy/1532788351?i=1532788352&app=itunes"
+      },
+      {
+        "artistName": "Cardi B",
+        "id": "1552255281",
+        "releaseDate": "2021-02-05",
+        "name": "Up",
+        "collectionName": "Up - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Atlantic Recording Corporation",
+        "artistId": "956078923",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/cardi-b/956078923?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/bc/c9/9bbcc984-0002-f0bf-9b40-a2739cda24d7/075679791351.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/up/1552255107?i=1552255281&app=itunes"
+      },
+      {
+        "artistName": "Dua Lipa",
+        "id": "1551179678",
+        "releaseDate": "2021-02-11",
+        "name": "We're Good",
+        "collectionName": "Future Nostalgia (The Moonlight Edition)",
+        "kind": "song",
+        "copyright": "A Warner Records UK Release, ℗ 2021 Dua Lipa Limited under exclusive licence to Warner Music UK Limited. Except tracks 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 18 ℗ 2020, tracks 1 & 2 ℗ 2019 Dua Lipa Limited under exclusive licence to Warner Music UK Limited, track 14  ℗ 2020 RCA Records, a division of Sony Music Entertainment, track 19 ℗ 2020 Sueños Globales, LLC, Exclusively Licensed to UMG Recordings Inc, ℗ Universal Music Latino/NEON16.",
+        "artistId": "1031397873",
+        "artistUrl": "https://music.apple.com/us/artist/dua-lipa/1031397873?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/7f/0a/fc7f0a77-66a6-1a3a-018a-315d6f5d3eca/190295042998.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/were-good/1551178998?i=1551179678&app=itunes"
+      },
+      {
+        "artistName": "Luke Combs",
+        "id": "1527782455",
+        "releaseDate": "2020-10-23",
+        "name": "Forever After All",
+        "collectionName": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "kind": "song",
+        "copyright": "℗ 2020 River House Artists LLC, under exclusive license to Sony Music Entertainment. All rights reserved.",
+        "artistId": "815635315",
+        "artistUrl": "https://music.apple.com/us/artist/luke-combs/815635315?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b4/bc/21/b4bc21b5-1095-b22b-b48b-f40f4a4b9a0b/886448691341.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/forever-after-all/1527782144?i=1527782455&app=itunes"
+      },
+      {
+        "artistName": "Tiësto",
+        "id": "1532019310",
+        "releaseDate": "2020-09-25",
+        "name": "The Business",
+        "collectionName": "The Business - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 Musical Freedom Label, LLC under exclusive license to Atlantic Recording Corporation for the world.",
+        "artistId": "4091218",
+        "artistUrl": "https://music.apple.com/us/artist/ti%C3%ABsto/4091218?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/22/58/ec/2258ec74-27b9-c62f-5837-b8e099d23b03/075679803429.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/us/genre/id17"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/the-business/1532019308?i=1532019310&app=itunes"
+      },
+      {
+        "artistName": "Glass Animals",
+        "id": "1508562516",
+        "releaseDate": "2020-08-07",
+        "name": "Heat Waves",
+        "collectionName": "Dreamland",
+        "kind": "song",
+        "copyright": "℗ 2020 Wolf Tone Records, a division of Universal Music Operations Limited",
+        "artistId": "528928008",
+        "artistUrl": "https://music.apple.com/us/artist/glass-animals/528928008?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/fb/e8/99/fbe89949-b999-f444-c3a8-dec33ca0e08d/20UMGIM03371.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/heat-waves/1508562310?i=1508562516&app=itunes"
+      },
+      {
+        "artistName": "Ava Max",
+        "id": "1538214603",
+        "releaseDate": "2020-09-18",
+        "name": "My Head & My Heart",
+        "collectionName": "Heaven & Hell",
+        "kind": "song",
+        "copyright": "Atlantic Records, ℗ 2020 Artist Partner Group, Inc.",
+        "artistId": "1265164818",
+        "artistUrl": "https://music.apple.com/us/artist/ava-max/1265164818?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/50/2a/c7/502ac767-7819-5ead-01de-cfc237136a24/075679797032.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/my-head-my-heart/1538214602?i=1538214603&app=itunes"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1545051686",
+        "releaseDate": "2021-01-08",
+        "name": "drivers license",
+        "collectionName": "drivers license - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/olivia-rodrigo/979458609?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/f0/19/d6/f019d61e-6bd3-d936-1214-22b732083ef0/20UM1IM14285.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/drivers-license/1545051447?i=1545051686&app=itunes"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735548",
+        "releaseDate": "2021-04-01",
+        "name": "deja vu",
+        "collectionName": "*O*R",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/olivia-rodrigo/979458609?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/91/0e/58/910e58d7-5853-3ca5-1b18-c9244899d363/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548&app=itunes"
+      },
+      {
+        "artistName": "Billie Eilish",
+        "id": "1539499186",
+        "releaseDate": "2020-11-12",
+        "name": "Therefore I Am",
+        "collectionName": "Therefore I Am - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 Darkroom/Interscope Records",
+        "artistId": "1065981054",
+        "artistUrl": "https://music.apple.com/us/artist/billie-eilish/1065981054?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/54/9f/80/549f80d9-9977-1ec2-89c6-01e8a0d9a096/20UMGIM99589.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/therefore-i-am/1539499185?i=1539499186&app=itunes"
+      },
+      {
+        "artistName": "Tate McRae",
+        "id": "1507810181",
+        "releaseDate": "2020-04-17",
+        "name": "you broke me first",
+        "collectionName": "you broke me first - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "835056838",
+        "artistUrl": "https://music.apple.com/us/artist/tate-mcrae/835056838?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e3/b9/7f/e3b97f66-e2f0-6e11-296f-7faa164b70c6/886448361923.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/you-broke-me-first/1507809903?i=1507810181&app=itunes"
+      },
+      {
+        "artistName": "Travis Scott & HVME",
+        "id": "1549042958",
+        "releaseDate": "2021-01-15",
+        "name": "Goosebumps (Remix)",
+        "collectionName": "Goosebumps (Remix) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Epic Records. With Cactus Jack.",
+        "artistId": "549236696",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=549236696-1281974195&app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/c2/db/f4/c2dbf458-593f-f672-2629-4559de329be9/886449020270.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/goosebumps-remix/1549042591?i=1549042958&app=itunes"
+      },
+      {
+        "artistName": "Justin Bieber",
+        "id": "1556175852",
+        "releaseDate": "2021-03-05",
+        "name": "Hold On",
+        "collectionName": "Justice",
+        "kind": "song",
+        "copyright": "℗ 2021 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId": "320569549",
+        "artistUrl": "https://music.apple.com/us/artist/justin-bieber/320569549?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f5/7a/9e/f57a9e6a-31c8-0784-dfbd-4a0120bfd4af/21UMGIM17517.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/hold-on/1556175419?i=1556175852&app=itunes"
+      },
+      {
+        "artistName": "Pop Smoke",
+        "id": "1521889954",
+        "releaseDate": "2020-07-03",
+        "name": "What You Know Bout Love",
+        "collectionName": "Shoot For The Stars Aim For The Moon",
+        "kind": "song",
+        "copyright": "Victor Victor Worldwide; ℗ 2020 Republic Records, a division of UMG Recordings, Inc. & Victor Victor Worldwide",
+        "artistId": "1450601383",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/pop-smoke/1450601383?app=itunes",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1c/ed/39/1ced39e0-c34d-52b0-021c-ff967f21f5bf/20UMGIM55833.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/what-you-know-bout-love/1521889004?i=1521889954&app=itunes"
+      },
+      {
+        "artistName": "Forest Blakk",
+        "id": "1531463194",
+        "releaseDate": "2020-09-30",
+        "name": "If You Love Her",
+        "collectionName": "If You Love Her - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 Atlantic Recording Corporation",
+        "artistId": "962489105",
+        "artistUrl": "https://music.apple.com/us/artist/forest-blakk/962489105?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/4a/fe/af/4afeaff4-d8f0-5f2b-2d0b-10dfc27c754e/075679805812.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/if-you-love-her/1531463193?i=1531463194&app=itunes"
+      },
+      {
+        "artistName": "H.E.R.",
+        "id": "1535678349",
+        "releaseDate": "2020-10-21",
+        "name": "Damage",
+        "collectionName": "Damage - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "123049323",
+        "artistUrl": "https://music.apple.com/us/artist/h-e-r/123049323?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/9d/b2/54/9db254bb-36ea-6719-8b9f-c3f081072c5f/886448213802.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/damage/1535678188?i=1535678349&app=itunes"
+      },
+      {
+        "artistName": "GIVĒON",
+        "id": "1556123056",
+        "releaseDate": "2020-02-21",
+        "name": "Heartbreak Anniversary",
+        "collectionName": "When It's All Said And Done... Take Time",
+        "kind": "song",
+        "copyright": "℗ 2021 Epic Records. With Not So Fast LLC.",
+        "artistId": "1070668868",
+        "artistUrl": "https://music.apple.com/us/artist/giv%C4%93on/1070668868?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f6/6d/47/f66d4728-0bbf-42f2-147a-4247b1f79a67/886448745839.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/heartbreak-anniversary/1556122764?i=1556123056&app=itunes"
+      },
+      {
+        "artistName": "Kali Uchis",
+        "id": "1541731262",
+        "releaseDate": "2020-12-04",
+        "name": "telepatía",
+        "collectionName": "Sin Miedo (del Amor y Otros Demonios) ∞",
+        "kind": "song",
+        "copyright": "An EMI / Interscope Records release; ℗ 2020 Universal Music Operations Limited",
+        "artistId": "894731301",
+        "artistUrl": "https://music.apple.com/us/artist/kali-uchis/894731301?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/73/06/27/730627f7-c0e4-2381-fd71-64605c0f71e3/20UMGIM71274.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "12",
+            "name": "Latin",
+            "url": "https://itunes.apple.com/us/genre/id12"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/telepat%C3%ADa/1541730865?i=1541731262&app=itunes"
+      }
+    ]
+  }
+}

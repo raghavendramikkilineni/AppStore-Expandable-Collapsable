@@ -1,0 +1,952 @@
+{
+    "feed": {
+        "title": "Top Free Books",
+        "id": "https://rss.itunes.apple.com/api/v1/us/books/top-free/all/25/explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/us/itunes/"
+        },
+        "links": [
+            {
+                "self": "https://rss.itunes.apple.com/api/v1/us/books/top-free/all/25/explicit.json"
+            },
+            {
+                "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=38&popId=42"
+            }
+        ],
+        "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+        "country": "us",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2021-04-12T01:55:03.000-07:00",
+        "results": [
+            {
+                "artistName": "Josie Brown & Deborah Coonts",
+                "id": "1409987550",
+                "releaseDate": "2018-08-03",
+                "name": "The Housewife Assassin Gets Lucky",
+                "kind": "epubBook",
+                "artistId": "213912951",
+                "artistUrl": "https://books.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=213912951-364664563",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Publication125/v4/aa/85/d6/aa85d64a-c32f-f974-7e65-e2ec38dd6ed4/The_HA_Gets_Lucky_Final-Sat.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10055",
+                        "name": "Women Sleuths",
+                        "url": "https://itunes.apple.com/us/genre/id10055"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9032",
+                        "name": "Mysteries & Thrillers",
+                        "url": "https://itunes.apple.com/us/genre/id9032"
+                    },
+                    {
+                        "genreId": "10050",
+                        "name": "Hard-Boiled",
+                        "url": "https://itunes.apple.com/us/genre/id10050"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10061",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/us/genre/id10061"
+                    },
+                    {
+                        "genreId": "11259",
+                        "name": "Cozy",
+                        "url": "https://itunes.apple.com/us/genre/id11259"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/the-housewife-assassin-gets-lucky/id1409987550"
+            },
+            {
+                "artistName": "Apple Inc.",
+                "id": "1515995528",
+                "releaseDate": "2020-09-16",
+                "name": "iPhone User Guide",
+                "kind": "epubBook",
+                "artistId": "405307759",
+                "artistUrl": "https://books.apple.com/us/artist/apple-inc/405307759",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Publication124/v4/f2/d2/b0/f2d2b0a9-8b64-2c19-d561-4a4ff911aa95/ePubCover_iPhone.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10017",
+                        "name": "Computers",
+                        "url": "https://itunes.apple.com/us/genre/id10017"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9027",
+                        "name": "Computers & Internet",
+                        "url": "https://itunes.apple.com/us/genre/id9027"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/iphone-user-guide/id1515995528"
+            },
+            {
+                "artistName": "Meredith Wild",
+                "id": "1066107103",
+                "releaseDate": "2016-11-22",
+                "name": "Over the Edge",
+                "kind": "epubBook",
+                "artistId": "699318345",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/meredith-wild/699318345",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Publication111/v4/00/78/64/0078649f-5e97-154d-8acf-2d40764c6110/Over-the-Edge-iBooks-Edition-iBooks.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/over-the-edge/id1066107103"
+            },
+            {
+                "artistName": "Lexy Timms",
+                "id": "1481004040",
+                "releaseDate": "2019-09-22",
+                "name": "Payment for Sin",
+                "kind": "epubBook",
+                "artistId": "783139085",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/lexy-timms/783139085",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Publication123/v4/eb/8d/cb/eb8dcbb3-c159-a05c-eb06-5906393b3a2f/0000484210.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10061",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/us/genre/id10061"
+                    },
+                    {
+                        "genreId": "11040",
+                        "name": "New Adult",
+                        "url": "https://itunes.apple.com/us/genre/id11040"
+                    },
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/payment-for-sin/id1481004040"
+            },
+            {
+                "artistName": "Katie Lane",
+                "id": "1488812505",
+                "releaseDate": "2019-11-21",
+                "name": "Taming a Texas Bad Boy",
+                "kind": "epubBook",
+                "artistId": "395527255",
+                "artistUrl": "https://books.apple.com/us/artist/katie-lane/395527255",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication123/v4/e2/92/6c/e2926ca0-07fb-d012-1229-ac6f97e157bd/0000502612.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "11042",
+                        "name": "Romantic Comedy",
+                        "url": "https://itunes.apple.com/us/genre/id11042"
+                    },
+                    {
+                        "genreId": "10062",
+                        "name": "Western",
+                        "url": "https://itunes.apple.com/us/genre/id10062"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/taming-a-texas-bad-boy/id1488812505"
+            },
+            {
+                "artistName": "Apple Inc.",
+                "id": "1527605296",
+                "releaseDate": "2020-09-16",
+                "name": "Apple Watch User Guide",
+                "kind": "epubBook",
+                "artistId": "405307759",
+                "artistUrl": "https://books.apple.com/us/artist/apple-inc/405307759",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication124/v4/6d/f2/03/6df203a2-7b76-c8de-fb7c-937a9e91f4be/ePubCover_Watch.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10017",
+                        "name": "Computers",
+                        "url": "https://itunes.apple.com/us/genre/id10017"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9027",
+                        "name": "Computers & Internet",
+                        "url": "https://itunes.apple.com/us/genre/id9027"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/apple-watch-user-guide/id1527605296"
+            },
+            {
+                "artistName": "Bella Andre",
+                "id": "796270480",
+                "releaseDate": "2014-03-05",
+                "name": "Just to Be with You",
+                "kind": "epubBook",
+                "artistId": "358470275",
+                "artistUrl": "https://books.apple.com/us/artist/bella-andre/358470275",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication123/v4/2b/3a/66/2b3a6657-449e-dab9-515b-92f636a8562d/JustToBeWithYou_NewCover.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    },
+                    {
+                        "genreId": "11047",
+                        "name": "Drama",
+                        "url": "https://itunes.apple.com/us/genre/id11047"
+                    },
+                    {
+                        "genreId": "11042",
+                        "name": "Romantic Comedy",
+                        "url": "https://itunes.apple.com/us/genre/id11042"
+                    },
+                    {
+                        "genreId": "11040",
+                        "name": "New Adult",
+                        "url": "https://itunes.apple.com/us/genre/id11040"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/just-to-be-with-you/id796270480"
+            },
+            {
+                "artistName": "Celina Grace",
+                "id": "1332335113",
+                "releaseDate": "2015-08-24",
+                "name": "Hushabye (A Kate Redman Mystery: Book 1)",
+                "kind": "epubBook",
+                "artistId": "646544526",
+                "artistUrl": "https://books.apple.com/us/artist/celina-grace/646544526",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/8f/8a/b2/8f8ab294-32d7-96a5-6f70-a015f9a799da/0000117327.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10052",
+                        "name": "Police Procedural",
+                        "url": "https://itunes.apple.com/us/genre/id10052"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9032",
+                        "name": "Mysteries & Thrillers",
+                        "url": "https://itunes.apple.com/us/genre/id9032"
+                    },
+                    {
+                        "genreId": "10055",
+                        "name": "Women Sleuths",
+                        "url": "https://itunes.apple.com/us/genre/id10055"
+                    },
+                    {
+                        "genreId": "10054",
+                        "name": "British Detectives",
+                        "url": "https://itunes.apple.com/us/genre/id10054"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/hushabye-a-kate-redman-mystery-book-1/id1332335113"
+            },
+            {
+                "artistName": "Kelsey Browning & Nancy Naigle",
+                "id": "1549043065",
+                "releaseDate": "2021-01-11",
+                "name": "Seasoned Southern Sleuths Cozy Mystery Box Set 1",
+                "kind": "epubBook",
+                "artistId": "671050381",
+                "artistUrl": "https://books.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=671050381-452800190",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication114/v4/9b/05/3c/9b053c7f-10ca-259e-7d0f-bc28708f7d62/BoxSet1_Flat.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "11259",
+                        "name": "Cozy",
+                        "url": "https://itunes.apple.com/us/genre/id11259"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9032",
+                        "name": "Mysteries & Thrillers",
+                        "url": "https://itunes.apple.com/us/genre/id9032"
+                    },
+                    {
+                        "genreId": "10055",
+                        "name": "Women Sleuths",
+                        "url": "https://itunes.apple.com/us/genre/id10055"
+                    },
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    },
+                    {
+                        "genreId": "11045",
+                        "name": "Anthologies",
+                        "url": "https://itunes.apple.com/us/genre/id11045"
+                    },
+                    {
+                        "genreId": "10039",
+                        "name": "Action & Adventure",
+                        "url": "https://itunes.apple.com/us/genre/id10039"
+                    },
+                    {
+                        "genreId": "10053",
+                        "name": "Short Stories",
+                        "url": "https://itunes.apple.com/us/genre/id10053"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/seasoned-southern-sleuths-cozy-mystery-box-set-1/id1549043065"
+            },
+            {
+                "artistName": "W.J. May",
+                "id": "1476838822",
+                "releaseDate": "2019-11-01",
+                "name": "The Price For Peace",
+                "kind": "epubBook",
+                "artistId": "476365000",
+                "artistUrl": "https://books.apple.com/us/artist/w-j-may/476365000",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Publication113/v4/4a/8f/1d/4a8f1dfc-c1be-c10c-4125-bf0b4750d57f/0000469365.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "11006",
+                        "name": "Adventure",
+                        "url": "https://itunes.apple.com/us/genre/id11006"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9020",
+                        "name": "Sci-Fi & Fantasy",
+                        "url": "https://itunes.apple.com/us/genre/id9020"
+                    },
+                    {
+                        "genreId": "10064",
+                        "name": "Science Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id10064"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10058",
+                        "name": "Paranormal",
+                        "url": "https://itunes.apple.com/us/genre/id10058"
+                    },
+                    {
+                        "genreId": "10044",
+                        "name": "Fantasy",
+                        "url": "https://itunes.apple.com/us/genre/id10044"
+                    },
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    },
+                    {
+                        "genreId": "11001",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id11001"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/the-price-for-peace/id1476838822"
+            },
+            {
+                "artistName": "Cora Seton",
+                "id": "1176336428",
+                "releaseDate": "2016-11-14",
+                "name": "Issued to the Bride One Navy SEAL",
+                "kind": "epubBook",
+                "artistId": "649806358",
+                "artistUrl": "https://books.apple.com/us/artist/cora-seton/649806358",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication124/v4/e9/76/5e/e9765eff-30ff-64a0-671d-3400337fca70/1f7f041d-0c79-41be-8dd7-0adc22771d5d_cover_image.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "11233",
+                        "name": "Military",
+                        "url": "https://itunes.apple.com/us/genre/id11233"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10062",
+                        "name": "Western",
+                        "url": "https://itunes.apple.com/us/genre/id10062"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/issued-to-the-bride-one-navy-seal/id1176336428"
+            },
+            {
+                "artistName": "Adam Nicholls",
+                "id": "1549882358",
+                "releaseDate": "2021-02-01",
+                "name": "Missing",
+                "kind": "epubBook",
+                "artistId": "1028170871",
+                "artistUrl": "https://books.apple.com/us/artist/adam-nicholls/1028170871",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication124/v4/0a/87/0d/0a870d1c-d4cc-8e1a-ca79-1a96d4f749ae/0000659953.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "9032",
+                        "name": "Mysteries & Thrillers",
+                        "url": "https://itunes.apple.com/us/genre/id9032"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/missing/id1549882358"
+            },
+            {
+                "artistName": "Margery Scott",
+                "id": "1501077602",
+                "releaseDate": "2020-06-06",
+                "name": "Elise",
+                "kind": "epubBook",
+                "artistId": "441829863",
+                "artistUrl": "https://books.apple.com/us/artist/margery-scott/441829863",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication113/v4/bc/7e/09/bc7e09e3-bcc3-9aa9-b5be-a390e5e467e9/0000532714.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10041",
+                        "name": "Religious",
+                        "url": "https://itunes.apple.com/us/genre/id10041"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10059",
+                        "name": "Historical",
+                        "url": "https://itunes.apple.com/us/genre/id10059"
+                    },
+                    {
+                        "genreId": "10062",
+                        "name": "Western",
+                        "url": "https://itunes.apple.com/us/genre/id10062"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/elise/id1501077602"
+            },
+            {
+                "artistName": "Marika Ray",
+                "id": "1555812935",
+                "releaseDate": "2018-02-18",
+                "name": "Sweet Dreams",
+                "kind": "epubBook",
+                "artistId": "1372702859",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/marika-ray/1372702859",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication114/v4/bb/7b/b2/bb7bb272-08c4-0ce6-9e27-735aad5e5ef8/a887af40-3e29-4fe2-a82a-e27a60b9f9ec_cover_image.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "11042",
+                        "name": "Romantic Comedy",
+                        "url": "https://itunes.apple.com/us/genre/id11042"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/sweet-dreams/id1555812935"
+            },
+            {
+                "artistName": "Ainsley Booth",
+                "id": "1062737875",
+                "releaseDate": "2016-02-23",
+                "name": "Booty Call",
+                "kind": "epubBook",
+                "artistId": "955560227",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/ainsley-booth/955560227",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication124/v4/7a/f1/02/7af102e8-cb2a-a782-3a00-d352ed82192e/0000135634.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10056",
+                        "name": "Erotic Romance",
+                        "url": "https://itunes.apple.com/us/genre/id10056"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    },
+                    {
+                        "genreId": "11040",
+                        "name": "New Adult",
+                        "url": "https://itunes.apple.com/us/genre/id11040"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/booty-call/id1062737875"
+            },
+            {
+                "artistName": "F. Scott Fitzgerald",
+                "id": "914355894",
+                "releaseDate": "1925-04-10",
+                "name": "The Great Gatsby",
+                "kind": "epubBook",
+                "artistId": "2037135",
+                "artistUrl": "https://books.apple.com/us/artist/f-scott-fitzgerald/2037135",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Publication123/v4/25/47/a8/2547a86f-5726-4509-91a8-e54b89a2c890/PD_The_Great_Gatsby-Adj.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10042",
+                        "name": "Classics",
+                        "url": "https://itunes.apple.com/us/genre/id10042"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/the-great-gatsby/id914355894"
+            },
+            {
+                "artistName": "Priscilla Oliveras",
+                "id": "1470627502",
+                "releaseDate": "2020-04-28",
+                "name": "Island Affair",
+                "kind": "epubBook",
+                "artistId": "1195455381",
+                "artistUrl": "https://books.apple.com/us/artist/priscilla-oliveras/1195455381",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication123/v4/10/24/d7/1024d76a-2b36-e586-2c55-297b5510135e/9781420150186.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "11042",
+                        "name": "Romantic Comedy",
+                        "url": "https://itunes.apple.com/us/genre/id11042"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/island-affair/id1470627502"
+            },
+            {
+                "artistName": "Apple Inc.",
+                "id": "1515995498",
+                "releaseDate": "2020-09-16",
+                "name": "iPad User Guide",
+                "kind": "epubBook",
+                "artistId": "405307759",
+                "artistUrl": "https://books.apple.com/us/artist/apple-inc/405307759",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Publication124/v4/91/65/6b/91656b39-b490-294a-e0ec-bc98ff1bb8a8/ePubCoveriPad.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10017",
+                        "name": "Computers",
+                        "url": "https://itunes.apple.com/us/genre/id10017"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9027",
+                        "name": "Computers & Internet",
+                        "url": "https://itunes.apple.com/us/genre/id9027"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/ipad-user-guide/id1515995498"
+            },
+            {
+                "artistName": "T.D. Jakes",
+                "id": "1372862909",
+                "releaseDate": "2018-04-17",
+                "name": "Naked and Not Ashamed",
+                "kind": "epubBook",
+                "artistId": "312954",
+                "artistUrl": "https://books.apple.com/us/artist/t-d-jakes/312954",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/e5/8f/65/e58f657e-6a91-6525-6dbe-3582b0679fdb/9780768418729.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10107",
+                        "name": "Christianity",
+                        "url": "https://itunes.apple.com/us/genre/id10107"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9018",
+                        "name": "Religion & Spirituality",
+                        "url": "https://itunes.apple.com/us/genre/id9018"
+                    },
+                    {
+                        "genreId": "9025",
+                        "name": "Health, Mind & Body",
+                        "url": "https://itunes.apple.com/us/genre/id9025"
+                    },
+                    {
+                        "genreId": "10119",
+                        "name": "Self-Improvement",
+                        "url": "https://itunes.apple.com/us/genre/id10119"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/naked-and-not-ashamed/id1372862909"
+            },
+            {
+                "artistName": "Amy Brent",
+                "id": "1562032480",
+                "releaseDate": "2021-04-07",
+                "name": "Baby Daddy",
+                "kind": "epubBook",
+                "artistId": "1182838732",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/amy-brent/1182838732",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Publication114/v4/da/10/df/da10df7a-a9a0-750d-5b5c-e9c4300c335f/0000694521.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10056",
+                        "name": "Erotic Romance",
+                        "url": "https://itunes.apple.com/us/genre/id10056"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/baby-daddy/id1562032480"
+            },
+            {
+                "artistName": "J Daniels",
+                "id": "1032870613",
+                "releaseDate": "2015-08-21",
+                "name": "Sweet Addiction",
+                "kind": "epubBook",
+                "artistId": "210147393",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/j-daniels/210147393",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication118/v4/b9/02/6e/b9026eb5-8d6d-ec68-1b8c-4e4a5bac95ba/Sweet_Addiction_SMASHWORDS.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "11042",
+                        "name": "Romantic Comedy",
+                        "url": "https://itunes.apple.com/us/genre/id11042"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10056",
+                        "name": "Erotic Romance",
+                        "url": "https://itunes.apple.com/us/genre/id10056"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/sweet-addiction/id1032870613"
+            },
+            {
+                "artistName": "Lexy Timms",
+                "id": "1469312250",
+                "releaseDate": "2019-06-19",
+                "name": "Dare Me",
+                "kind": "epubBook",
+                "artistId": "783139085",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/lexy-timms/783139085",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Publication123/v4/c7/c1/5a/c7c15ad3-b713-7f8b-f924-85efc1035fa1/0000452937.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "10061",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/us/genre/id10061"
+                    },
+                    {
+                        "genreId": "11040",
+                        "name": "New Adult",
+                        "url": "https://itunes.apple.com/us/genre/id11040"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/dare-me/id1469312250"
+            },
+            {
+                "artistName": "Amanda Mariel",
+                "id": "1356432204",
+                "releaseDate": "2018-04-24",
+                "name": "Love Only Me",
+                "kind": "epubBook",
+                "artistId": "969862721",
+                "artistUrl": "https://books.apple.com/us/artist/amanda-mariel/969862721",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Publication123/v4/26/d5/f9/26d5f96a-aac9-0890-7380-bf0670e965b5/0000312485.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10059",
+                        "name": "Historical",
+                        "url": "https://itunes.apple.com/us/genre/id10059"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/love-only-me/id1356432204"
+            },
+            {
+                "artistName": "Alexa Rivers",
+                "id": "1548345596",
+                "releaseDate": "2019-06-03",
+                "name": "Accidentally Yours",
+                "kind": "epubBook",
+                "artistId": "1534248779",
+                "artistUrl": "https://books.apple.com/us/artist/alexa-rivers/1534248779",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/ed/38/c8/ed38c8cb-5f95-924b-9721-788e033bdf30/0000656175.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "9031",
+                        "name": "Fiction & Literature",
+                        "url": "https://itunes.apple.com/us/genre/id9031"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    },
+                    {
+                        "genreId": "11042",
+                        "name": "Romantic Comedy",
+                        "url": "https://itunes.apple.com/us/genre/id11042"
+                    },
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/accidentally-yours/id1548345596"
+            },
+            {
+                "artistName": "K.A. Linde",
+                "id": "1196147122",
+                "releaseDate": "2017-02-28",
+                "name": "The Wright Brother",
+                "kind": "epubBook",
+                "artistId": "550925571",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://books.apple.com/us/artist/k-a-linde/550925571",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication123/v4/30/e9/31/30e93103-2344-47fa-48d8-12d5fa4486ca/The-Wright-Brother-Apple.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10057",
+                        "name": "Contemporary",
+                        "url": "https://itunes.apple.com/us/genre/id10057"
+                    },
+                    {
+                        "genreId": "38",
+                        "name": "Books",
+                        "url": "https://itunes.apple.com/us/genre/id38"
+                    },
+                    {
+                        "genreId": "9003",
+                        "name": "Romance",
+                        "url": "https://itunes.apple.com/us/genre/id9003"
+                    }
+                ],
+                "url": "https://books.apple.com/us/book/the-wright-brother/id1196147122"
+            }
+        ]
+    }
+}
